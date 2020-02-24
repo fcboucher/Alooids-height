@@ -9,7 +9,7 @@ setwd('/home/boucherf/Documents/Flo_BACKUPS/Travail/Articles/Alooids_height/data
 ########################################################################
 ########################################################################
 
-# Georeferenced data from SANBI: GBIF has too many gaps outside of South Africa
+# Georeferenced data from GBIF carefully curated
 # environmental variables as follows:
 # leaf Area Index from ftp://neoftp.sci.gsfc.nasa.gov/geotiff/MOD15A2_M_LAI/ and NDVI from same source
 # climate from WORLDCLIM sampled at 10 min (because our coordinate data are not more accurate)
